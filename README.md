@@ -26,7 +26,7 @@ Passionate about creating dynamic and responsive web applications, solving compl
 
 ## 🛠️ Non-Web Developer Experience:
 - **CNC Saw Operator:** Precision cutting, shaping, and polishing of marble and granite slabs.
-- **Concrete Foreman:** Led crew in commercial building foundation construction, ensuring adherence to project timelines and compliance with regulatory standards.
+- **Concrete Foreman:** Managed a crew in commercial building foundation construction, ensuring adherence to project timelines and compliance with regulatory standards.
 
 ## 📫 Connect with me:
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/garrett-west-13)
