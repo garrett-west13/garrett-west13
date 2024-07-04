@@ -29,4 +29,4 @@ Passionate about creating dynamic and responsive web applications, solving compl
 
 ## 📫 Connect with me:
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/garrett-west-13)
-- Website: [Portfolio Website](https://garrett-portfolio.netlify.app)
+- Website: [Portfolio Website](https://garrett-west.dev)
