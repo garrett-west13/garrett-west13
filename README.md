@@ -1,6 +1,6 @@
 # Hi there, I'm Garrett West! 👋
 
-I'm a freelance web developer with hands-on experience in a wide range of technologies including Shopify, HTML, CSS, JavaScript, React, Node.js, Python, Flask, Django and Shopify.
+I'm a freelance web developer with hands-on experience in a wide range of technologies including Shopify, HTML, CSS, JavaScript, React, Node.js, Python, Flask and Django
 
 Passionate about creating dynamic and responsive web applications, solving complex problems, and continuously expanding my skill set.
 
