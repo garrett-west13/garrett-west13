@@ -1,32 +1,32 @@
 # Hi there, I'm Garrett West! 👋
 
-I'm a freelance web developer with hands-on experience in a wide range of technologies including Shopify, HTML, CSS, JavaScript, React, Node.js, Python, Flask and Django
-
-Passionate about creating dynamic and responsive web applications, solving complex problems, and continuously expanding my skill set.
+I'm a freelance web developer with a strong focus on Shopify and e-commerce solutions. With hands-on experience in a broad range of technologies, I specialize in creating dynamic, responsive, and high-performing Shopify stores tailored to meet business needs.
 
 ## 🔧 Skills:
-- Shopify
-- HTML, CSS, JavaScript
-- React, Node.js, Python, Flask, Django
-- SQL Databases
-- Problem-solving
-- Attention to detail
-- Technical proficiency in operating various machinery and tools
+- **Shopify:** Theme customization, app integration, advanced functionality.
+- **Front-End Technologies:** HTML, CSS, JavaScript.
+- **Back-End Technologies:** React, Node.js, Python, Flask, Django.
+- **Databases:** SQL databases.
+- **Problem-Solving:** Innovative solutions for complex challenges.
+- **Attention to Detail:** Ensuring precision and quality in every project.
 
 ## 🎓 Certifications:
-- HTML and CSS Responsive Web Design (freeCodeCamp)
-- CS50's Introduction to Computer Science (edX)
-- CS50's Web Programming with Python and JavaScript (edX)
+- **HTML and CSS Responsive Web Design** - freeCodeCamp
+- **CS50's Introduction to Computer Science** - edX
+- **CS50's Web Programming with Python and JavaScript** - edX
 
 ## 🛠️ Projects:
-- **Budget App:** Comprehensive web app for personal finance management using Django, JavaScript, HTML, CSS, and PostgreSQL.
-- **Portfolio Website Project:** Professional portfolio website showcasing web development skills, projects, and experiences using React, Bootstrap, and Netlify.
-- **Password Manager App:** Flask-based web application for secure password management, URL conversion, and password visibility toggle.
+- **Budget App:** A comprehensive web app for personal finance management built with Django, JavaScript, HTML, CSS, and PostgreSQL.
+- **Portfolio Website Project:** A professional portfolio showcasing web development skills, projects, and experiences, developed using React, Bootstrap, and deployed on Netlify.
+- **Password Manager App:** A secure password management application built with Flask, featuring URL conversion and password visibility toggle.
 
-## 🛠️ Non-Web Developer Experience:
-- **CNC Saw Operator:** Precision cutting, shaping, and polishing of marble and granite slabs.
-- **Concrete Foreman:** Managed a crew in commercial building foundation construction, ensuring adherence to project timelines and compliance with regulatory standards.
+## 📈 Why Work With Me:
+- **Shopify Expertise:** Deep knowledge of Shopify, including custom theme development and app integrations.
+- **Efficient Development:** Quick turnaround on projects with a focus on delivering high-quality results.
+- **Client-Centric Approach:** Tailoring solutions to meet specific business needs and goals.
 
-## 📫 Connect with me:
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/garrett-west-13)
-- Website: [Portfolio Website](https://garrett-west.dev)
+## 📫 Connect with Me:
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/garrett-west-13)
+- **Website:** [Portfolio Website](https://garrett-west.dev)
+
+Feel free to explore my projects and get in touch if you're interested in collaborating or have any questions!
