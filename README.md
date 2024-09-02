@@ -1,4 +1,4 @@
-# Hi there, I'm Garrett West! 👋
+# Hi there, I'm Garrett! 👋
 
 I'm a freelance web developer with a strong focus on Shopify and e-commerce solutions. With hands-on experience in a broad range of technologies, I specialize in creating dynamic, responsive, and high-performing Shopify stores tailored to meet business needs.
 
