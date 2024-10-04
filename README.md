@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, welcome to my page! :-)
 
-### I'm Garrett West, a Shopify Web Developer from the US, CA.![united-states](https://github.com/user-attachments/assets/2cb293e8-920a-4e7c-8f9f-60c62958c562)
+### I'm Garrett West, a Shopify Web Developer from the US. ![united-states](https://github.com/user-attachments/assets/2cb293e8-920a-4e7c-8f9f-60c62958c562)
 
 
 I specialize in building beautiful and high-performing Shopify stores tailored to your unique business needs. Whether you need a complete store setup, theme customization, or third-party app integration, I’ve got you covered.
@@ -36,7 +36,7 @@ If you’ve worked with other developers and still have unresolved issues, [cont
 ## 📫 Contact me:
 
 [![Website Badge](https://img.shields.io/badge/-website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](https://garrett-west.dev)  
-[![Email Badge](https://img.shields.io/badge/-garrettwest@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:garrettwest@gmail.com)](mailto:garrettwest@gmail.com)  
-[![Linkedin Badge](https://img.shields.io/badge/-mylinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrettwest/)](https://www.linkedin.com/in/garrettwest)  
+[![Email Badge](https://img.shields.io/badge/-garrettwest@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@garrett-west.dev)](mailto:contact@garrett-west.dev)  
+[![Linkedin Badge](https://img.shields.io/badge/-mylinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrett-west13/)](www.linkedin.com/in/garrett-west13)  
 
 Feel free to reach out if you're looking to collaborate, or if you need a hand with your Shopify store!
