@@ -37,6 +37,6 @@ If you’ve worked with other developers and still have unresolved issues, [cont
 
 [![Website Badge](https://img.shields.io/badge/-website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](https://garrett-west.dev)  
 [![Email Badge](https://img.shields.io/badge/-garrettwest@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@garrett-west.dev)](mailto:contact@garrett-west.dev)  
-[![Linkedin Badge](https://img.shields.io/badge/-mylinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrett-west13/)](www.linkedin.com/in/garrett-west13)  
+[![Linkedin Badge](https://img.shields.io/badge/-mylinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrett-west13/)](https://www.linkedin.com/in/garrett-west13/)  
 
 Feel free to reach out if you're looking to collaborate, or if you need a hand with your Shopify store!
