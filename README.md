@@ -1,32 +1,41 @@
-# Hi there, I'm Garrett! 👋
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, welcome to my page! :-)
 
-I'm a freelance web developer with a strong focus on Shopify and e-commerce solutions. With hands-on experience in a broad range of technologies, I specialize in creating dynamic, responsive, and high-performing Shopify stores tailored to meet business needs.
+### I'm Garrett West, a Shopify Web Developer from the US 🇺🇸.
 
-## 🔧 Skills:
-- **Shopify:** Theme customization, app integration, advanced functionality.
-- **Front-End Technologies:** HTML, CSS, JavaScript.
-- **Back-End Technologies:** React, Node.js, Python, Flask, Django.
-- **Databases:** SQL databases.
-- **Problem-Solving:** Innovative solutions for complex challenges.
-- **Attention to Detail:** Ensuring precision and quality in every project.
+I specialize in building beautiful and high-performing Shopify stores tailored to your unique business needs. Whether you need a complete store setup, theme customization, or third-party app integration, I’ve got you covered.
 
-## 🎓 Certifications:
-- **HTML and CSS Responsive Web Design** - freeCodeCamp
-- **CS50's Introduction to Computer Science** - edX
-- **CS50's Web Programming with Python and JavaScript** - edX
+## 🛠️ Languages and Tools:
+<div style="display:flex;align-items:center">
 
-## 🛠️ Projects:
-- **Budget App:** A comprehensive web app for personal finance management built with Django, JavaScript, HTML, CSS, and PostgreSQL.
-- **Portfolio Website Project:** A professional portfolio showcasing web development skills, projects, and experiences, developed using React, Bootstrap, and deployed on Netlify.
-- **Password Manager App:** A secure password management application built with Flask, featuring URL conversion and password visibility toggle.
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Shopify" width="26px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
+<img align="left" alt="Liquid" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0880593e17581e11a586815f8e151514a5e6cc42/e7bfe/dist/img/icon11.svg" style="padding-right:10px;" />
+</div>
 
-## 📈 Why Work With Me:
-- **Shopify Expertise:** Deep knowledge of Shopify, including custom theme development and app integrations.
-- **Efficient Development:** Quick turnaround on projects with a focus on delivering high-quality results.
-- **Client-Centric Approach:** Tailoring solutions to meet specific business needs and goals.
+<br /><br />
 
-## 📫 Connect with Me:
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/garrett-west-13)
-- **Website:** [Portfolio Website](https://garrett-west.dev)
+## 👨‍💻 My Services:
+Do you need an expert to take your Shopify store to the next level? I specialize in creating and customizing Shopify stores to help businesses succeed online. I focus exclusively on Shopify to ensure top-notch service and expertise.
 
-Feel free to explore my projects and get in touch if you're interested in collaborating or have any questions!
+Here are the services I offer:
+
+> 🏪 **Complete store setups**  
+> 🧭 **Store migrations** (WooCommerce, BigCommerce, etc.)  
+> 🎨 **Theme customizations**  
+> ⚙️ **Third-party app integrations**  
+> 🚀 **Performance optimizations**  
+
+If you’ve worked with other developers and still have unresolved issues, [contact me](https://garrett-west.dev). If I can’t solve your issue, no worries — no charges will be made until you’re happy with the results.
+
+## 📫 Contact me:
+
+[![Website Badge](https://img.shields.io/badge/-website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](https://garrett-west.dev)  
+[![Email Badge](https://img.shields.io/badge/-garrettwest@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:garrettwest@gmail.com)](mailto:garrettwest@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-mylinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrettwest/)](https://www.linkedin.com/in/garrettwest)  
+
+Feel free to reach out if you're looking to collaborate, or if you need a hand with your Shopify store!
