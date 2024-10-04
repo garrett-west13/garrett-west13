@@ -1,6 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, welcome to my page! :-)
 
-### I'm Garrett West, a Shopify Web Developer from the US 🇺🇸.
+### I'm Garrett West, a Shopify Web Developer from the ![united-states](https://github.com/user-attachments/assets/2cb293e8-920a-4e7c-8f9f-60c62958c562) US, CA.
+
 
 I specialize in building beautiful and high-performing Shopify stores tailored to your unique business needs. Whether you need a complete store setup, theme customization, or third-party app integration, I’ve got you covered.
 
